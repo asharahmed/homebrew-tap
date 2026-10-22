@@ -1,9 +1,17 @@
 # asharahmed/tap
 
-Homebrew casks for apps by Ashar Ahmed.
+Homebrew casks and formulae for apps and tools by Ashar Ahmed.
+
+## Apps
 
 ```sh
 brew install --cask asharahmed/tap/screenshotr
 ```
 
-Casks here are updated automatically when a new version is released.
+## Command-line tools
+
+```sh
+brew install asharahmed/tap/qr-cli    # installs the `qr` command
+```
+
+Everything here is updated automatically when a new version is released.
