@@ -6,6 +6,7 @@ Homebrew casks and formulae for apps and tools by Ashar Ahmed.
 
 ```sh
 brew install --cask asharahmed/tap/screenshotr
+brew install --cask asharahmed/tap/scrobblr
 ```
 
 ## Command-line tools
